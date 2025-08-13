@@ -1,16 +1,13 @@
 {
-  "version": "1.0.1",
-  "release_date": "2025-08-12",
-  "description": "Покращення системи ліцензування та виправлення помилок:\n\n• Покращена стабільність підключення до серверів\n• Оптимізована швидкість завантаження бази даних\n• Виправлені помилки при роботі з великими файлами\n• Додана підтримка нових форматів дат\n• Покращений інтерфейс користувача",
-  "size": "2.1 МБ",
-  "download_url": "https://github.com/JamesonUA/landdata-updates/releases/download/v1.0.1/LandDataExplorer_v1.0.1.exe",
+  "version": "1.0.2",
+  "release_date": "2025-08-13",
+  "description": "Покращення запуску та роботи",
+  "size": "33.4 МБ",
+  "download_url": "https://github.com/JamesonUA/landdata-updates/releases/download/v1.0.1/LandDataExplorer_v1.0.2.exe",
   "minimum_version": "1.0.0",
   "required": false,
   "changelog": [
-    "Покращена система ліцензування",
-    "Оптимізація роботи з базою даних",
-    "Виправлення помилок інтерфейсу",
-    "Додана підтримка нових форматів"
+    "Покращення запуску та роботи"
   ]
 }
 
