@@ -1,13 +1,13 @@
 {
-  "version": "1.2.2",
-  "release_date": "2025-08-20",
-  "description": "Оновлення, технічні виправлення",
+  "version": "1.2.3",
+  "release_date": "2025-08-21",
+  "description": "Додана можливість фільтру за Типом власника - юридичними та фізичними особами.",
   "size": "33.6 МБ",
-  "download_url": "https://github.com/JamesonUA/landdata-updates/releases/download/v1.2.2/LandData_Explorer_V1.2.2.exe",
+  "download_url": "https://github.com/JamesonUA/landdata-updates/releases/download/v1.2.3/LandData_Explorer_V1.2.3.exe",
   "minimum_version": "1.0.0",
   "required": false,
   "changelog": [
-    "Оновлення, технічні виправлення"
+    "Додана можливість фільтру за Типом власника - юридичними та фізичними особами."
   ]
 }
 
