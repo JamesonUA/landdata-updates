@@ -1,10 +1,10 @@
 {
-  "version": "1.2.3",
+  "version": "1.2.4",
   "release_date": "2026-01-01",
   "description": "Технічне оновлення",
   "size": "56 МБ",
-  "download_url": "https://github.com/JamesonUA/landdata-updates/releases/download/v1.2.3/LandData_Explorer_v1.2.3.exe",
-  "minimum_version": "1.2.3",
+  "download_url": "https://github.com/JamesonUA/landdata-updates/releases/download/v1.2.3/LandData_Explorer_v1.2.4.exe",
+  "minimum_version": "1.2.4",
   "required": false,
   "changelog": [
     "Технічне оновлення"
