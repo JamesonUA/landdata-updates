@@ -1,13 +1,13 @@
 {
-  "version": "1.2.4",
-  "release_date": "2026-01-01",
-  "description": "Технічне оновлення",
+  "version": "1.2.5",
+  "release_date": "2026-01-10",
+  "description": "Додано можливість сбросу фільтрів у вікні вибору фільтрів. Покращена робота програми.",
   "size": "56 МБ",
   "download_url": "https://github.com/JamesonUA/landdata-updates/releases/download/v1.2.4/LandData_Explorer_v1.2.4.exe",
-  "minimum_version": "1.2.4",
+  "minimum_version": "1.2.5",
   "required": false,
   "changelog": [
-    "Технічне оновлення"
+    "Додано можливість сбросу фільтрів у вікні вибору фільтрів. Покращена робота програми"
   ]
 }
 
