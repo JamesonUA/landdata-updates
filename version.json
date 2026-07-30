@@ -1,10 +1,10 @@
 {
-  "version": "1.2.8",
-  "release_date": "2026-06-26",
+  "version": "1.2.9",
+  "release_date": "2026-07-30",
   "description": "Змінена візуалізаця. Покращена робота програми.",
   "size": "56 МБ",
-  "download_url": "https://github.com/JamesonUA/landdata-updates/releases/download/v1.2.8/LandDataExplorer_v1.2.8.exe",
-  "minimum_version": "1.2.8",
+  "download_url": "https://github.com/JamesonUA/landdata-updates/releases/download/v1.2.9/LandDataExplorer_v1.2.9.exe",
+  "minimum_version": "1.2.9",
   "required": false,
   "changelog": [
     "Змінена візуалізаця. Покращена робота програми"
